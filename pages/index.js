@@ -385,7 +385,7 @@ const JeffSpace = () => {
           data-animate-on-scroll
         >
           I'm always open to new opportunities and collaborations. Whether you
-          have a project in mind or just want to chat about the latest in Wen
+          have a project in mind or just want to chat about the latest in Web
           development, feel free to contact me.
         </div>
       </div>
