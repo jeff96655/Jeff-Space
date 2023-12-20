@@ -34,7 +34,7 @@ const JeffSpace = () => {
   }, []);
 
   const onFrameButtonClick = useCallback(() => {
-    window.open("https://t.me/jeff787898");
+    window.open("https://t.me/jeff96655");
   }, []);
 
   const onFrameButton1Click = useCallback(() => {
